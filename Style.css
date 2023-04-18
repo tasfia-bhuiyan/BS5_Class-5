@@ -1,0 +1,12 @@
+body{
+    font-size: 30px; /*Now defaul font size 1 rem=30px*/
+}
+p{
+   font-size: 2rem; /*CSS defaul font size 1 rem=16px*/
+}
+#pixel{
+    font-size: 40px;
+}
+*{
+    padding: 10px;
+}
